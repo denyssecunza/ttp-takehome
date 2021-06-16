@@ -1,4 +1,4 @@
-# Exmaple- "1. Infinte Scroll" 
+# Example- "1. Infinite Scroll" 
 
 Simple Pinterest Clone to showcase infinite scroll feature.
 
@@ -16,7 +16,7 @@ This project was created in order to demonstrate the infinite scroll functionali
 
 ### Installing
 
-From within the `infinte-scroll` directory:
+From within the `infinite-scroll` directory:
 
 ```sh
 npm install
@@ -26,7 +26,7 @@ npm start
 ### Executing program
 
 * How to run the program
-* After cloning the repository, and installing the dependencies, once in the `infinte-scroll` directory, use this command in the terminal:
+* After cloning the repository, and installing the dependencies, once in the `infinite-scroll` directory, use this command in the terminal:
 ```
 npm start
 ```

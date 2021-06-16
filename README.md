@@ -38,8 +38,8 @@ npm start
 
 Contributors names and contact info
 
-Denysse Cunza 
-[@DenysseCunza](https://twitter.com/DenysseCunza)
+* Denysse Cunza 
+* [@DenysseCunza](https://twitter.com/DenysseCunza)
 
 ## Version History
 
